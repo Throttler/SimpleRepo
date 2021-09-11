@@ -13,11 +13,11 @@ Max power :rocket:
 * **Cabbage**
 * Salad
 
-'''javascript
-function tes(){
-  console.log('This is javascript, bruh')
+```
+function test() {
+  console.log("notice the blank line before this function?");
 }
-'''
+```
 - [x] Javascript done! :octocat:
 
 Final link
