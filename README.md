@@ -10,7 +10,7 @@ Max power :rocket:
 >Nice to meet you too
 
 * Bread
-* Cabbage
+* **Cabbage**
 * Salad
 
 '''javascript
