@@ -1,5 +1,6 @@
 # SimpleRepo
 
+Max power :rocket:
 
 # H1 header
 
@@ -12,6 +13,12 @@
 * Cabbage
 * Salad
 
+'''javascript
+test = () =>{
+  console.log('This is javascript, bruh')
+}
+'''
+- [x] Javascript done! :octocat:
 
 Final link
 http:/github.com -automatic
