@@ -2,7 +2,7 @@
 
 Max power :rocket:
 
-# H1 header
+## Samples
 
 *add some italic text*
 
@@ -14,7 +14,7 @@ Max power :rocket:
 * Salad
 
 '''javascript
-test = () =>{
+function tes(){
   console.log('This is javascript, bruh')
 }
 '''
